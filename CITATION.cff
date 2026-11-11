@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite the published paper when referring to this research."
+title: "Lung Cancer Biomarker Discovery Research Showcase"
+authors:
+  - family-names: "Tshomo"
+    given-names: "Jamyang Ugyen"
+url: "https://github.com/JamyangUT/lung-cancer-biomarker-discovery"
+preferred-citation:
+  type: conference-paper
+  title: "Integrative Bioinformatics and ML Strategy for Identifying Lung Cancer Biomarkers"
+  authors:
+    - family-names: "Tshomo"
+      given-names: "Jamyang Ugyen"
+    - family-names: "Rajkumar"
+      given-names: "Sujitha"
+    - family-names: "Varshney"
+      given-names: "Rainy"
+    - family-names: "Varshney"
+      given-names: "Shivani"
+    - family-names: "Raj"
+      given-names: "Utkarsh"
+  doi: "10.1109/ICRITO66076.2025.11241354"
+  year: 2025
+  conference:
+    name: "2025 12th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO)"
